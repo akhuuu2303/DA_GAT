@@ -46,7 +46,7 @@ DA-GAT was evaluated on the S669 blind test set (<25% sequence identity to train
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/akhuuu2303/DA_GAT.git](https://github.com/akhuuu2303/DA_GAT.git)
+git clone https://github.com/akhuuu2303/DA_GAT.git
 cd DA_GAT
 
 # Install dependencies from requirements.txt
