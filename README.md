@@ -41,19 +41,13 @@ DA-GAT was evaluated on the S669 blind test set (<25% sequence identity to train
 
 ---
 
-## Installation & Setup
+## Installation & Quick Start
 
-### Requirements
-* Python 3.8+
-* PyTorch 2.0+
-* PyTorch Geometric
-* Transformers (HuggingFace)
-
-### Quick Start
+### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/DA-GAT.git](https://github.com/yourusername/DA-GAT.git)
-cd DA-GAT
+git clone [https://github.com/akhuuu2303/DA_GAT.git](https://github.com/akhuuu2303/DA_GAT.git)
+cd DA_GAT
 
-# Install dependencies
-pip install torch-geometric torch-scatter torch-sparse transformers
+# Install dependencies from requirements.txt
+pip install -r requirements.txt
