@@ -1,0 +1,19 @@
+# Core Machine Learning and Data Processing
+torch>=2.0.0
+numpy
+pandas
+scipy
+scikit-learn
+
+# Graph Neural Networks (PyTorch Geometric)
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+
+# Protein Language Modeling
+transformers
+
+# Utilities and Visualization
+requests
+matplotlib
